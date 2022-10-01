@@ -1,0 +1,14 @@
+{
+  "storyName": "",
+  "difficulties": "doloroso",
+  "hideFreeplay": false,
+  "weekBackground": "",
+  "weekBefore": "tutorial",
+  "freeplayColor": [146, 113, 253],
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "songs": [["llamado-de-emergenzia", "vegeta", [255, 133, 235]]],
+  "weekCharacters": ["", "", ""],
+  "hiddenUntilUnlocked": false,
+  "weekName": "ven y sana mi dolor"
+}
