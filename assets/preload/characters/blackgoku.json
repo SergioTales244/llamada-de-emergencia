@@ -225,7 +225,7 @@
 		100,
 		30
 	],
-	"healthicon": "blackgoku",
+	"healthicon": "blackGoku",
 	"flip_x": true,
 	"healthbar_colors": [
 		255,
