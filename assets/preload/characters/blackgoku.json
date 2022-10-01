@@ -1,0 +1,241 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "gokublack_idle"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "gokublack_idle"
+		},
+		{
+			"offsets": [
+				56,
+				-69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gokublack_down"
+		},
+		{
+			"offsets": [
+				56,
+				-69
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "gokublack_down"
+		},
+		{
+			"offsets": [
+				43,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "gokublack_down"
+		},
+		{
+			"offsets": [
+				91,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gokublack_left"
+		},
+		{
+			"offsets": [
+				91,
+				-27
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "gokublack_left"
+		},
+		{
+			"offsets": [
+				-27,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gokublack_up"
+		},
+		{
+			"offsets": [
+				-27,
+				6
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "gokublack_up"
+		},
+		{
+			"offsets": [
+				-40,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gokublack_right"
+		},
+		{
+			"offsets": [
+				-39,
+				-11
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "gokublack_right"
+		},
+		{
+			"offsets": [
+				65,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "gokublack_left"
+		},
+		{
+			"offsets": [
+				-44,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "gokublack_right"
+		},
+		{
+			"offsets": [
+				-23,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "gokublack_up"
+		},
+		{
+			"offsets": [
+				23,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "death"
+		},
+		{
+			"offsets": [
+				24,
+				-221
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathloop",
+			"loop": false,
+			"name": "deathloo"
+		},
+		{
+			"offsets": [
+				24,
+				-221
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "deathconfir"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blackgoku",
+	"position": [
+		100,
+		30
+	],
+	"healthicon": "blackgoku",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		79,
+		231
+	],
+	"camera_position": [
+		120,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

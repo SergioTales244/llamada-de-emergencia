@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				55
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "GOKU FINAL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gokuf",
+	"position": [
+		20,
+		-60
+	],
+	"healthicon": "goku",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		251
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

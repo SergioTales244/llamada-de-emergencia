@@ -1,0 +1,168 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "goku"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "goku"
+		},
+		{
+			"offsets": [
+				1,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "downg"
+		},
+		{
+			"offsets": [
+				-17,
+				33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rightg"
+		},
+		{
+			"offsets": [
+				-4,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "upg"
+		},
+		{
+			"offsets": [
+				69,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "leftg"
+		},
+		{
+			"offsets": [
+				2,
+				-18
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "downg"
+		},
+		{
+			"offsets": [
+				-1,
+				15
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "upg"
+		},
+		{
+			"offsets": [
+				74,
+				-13
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "leftg"
+		},
+		{
+			"offsets": [
+				-24,
+				27
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "rightg"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gokublue",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "goku",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		251
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
