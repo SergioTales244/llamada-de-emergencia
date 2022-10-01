@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				25,
+				[
+					[
+						"Change Character",
+						"dad",
+						"vegetai"
+					],
+					[
+						"Play Animation",
+						"inicio",
+						"dad"
+					]
+				]
+			],
+			[
+				142.857142857143,
+				[
+					[
+						"noteskinchangeOPPT",
+						"NOTEblue_assets",
+						"NOTEblue_splashes"
+					]
+				]
+			],
+			[
+				2596.42857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"vegeta"
+					]
+				]
+			],
+			[
+				3571.42857142857,
+				[
+					[
+						"Play Animation",
+						"inicio",
+						"bf"
+					],
+					[
+						"Change Character",
+						"bf",
+						"goku2"
+					]
+				]
+			],
+			[
+				8107.14285714286,
+				[
+					[
+						"Change Character",
+						"bf",
+						"blackgoku"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				144571.428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"vegetaf"
+					],
+					[
+						"Play Animation",
+						"sad",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}
