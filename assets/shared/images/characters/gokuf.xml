@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gokuf.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GOKU FINAL0000" x="20" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0001" x="20" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0002" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0003" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0004" x="1512" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0005" x="1512" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0006" x="2258" y="20" width="646" height="1099"/>
+	<SubTexture name="GOKU FINAL0007" x="2258" y="20" width="646" height="1099"/>
+	<SubTexture name="GOKU FINAL0008" x="3004" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0009" x="3004" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0010" x="20" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0011" x="20" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0012" x="766" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0013" x="766" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0014" x="1512" y="1219" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0015" x="1512" y="1219" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0016" x="2258" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0017" x="2258" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0018" x="3004" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0019" x="3004" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0020" x="20" y="2417" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0021" x="20" y="2417" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0022" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0023" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0024" x="20" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0025" x="20" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0026" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0027" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0028" x="1512" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0029" x="1512" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0030" x="2258" y="20" width="646" height="1099"/>
+	<SubTexture name="GOKU FINAL0031" x="2258" y="20" width="646" height="1099"/>
+	<SubTexture name="GOKU FINAL0032" x="3004" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0033" x="3004" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0034" x="20" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0035" x="20" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0036" x="766" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0037" x="766" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0038" x="1512" y="1219" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0039" x="1512" y="1219" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0040" x="2258" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0041" x="2258" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0042" x="3004" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0043" x="3004" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0044" x="20" y="2417" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0045" x="20" y="2417" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0046" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0047" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0048" x="20" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0049" x="20" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0050" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0051" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0052" x="1512" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0053" x="1512" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0054" x="2258" y="20" width="646" height="1099"/>
+	<SubTexture name="GOKU FINAL0055" x="2258" y="20" width="646" height="1099"/>
+	<SubTexture name="GOKU FINAL0056" x="3004" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0057" x="3004" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0058" x="20" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0059" x="20" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0060" x="766" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0061" x="766" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0062" x="1512" y="1219" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0063" x="1512" y="1219" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0064" x="2258" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0065" x="2258" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0066" x="3004" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0067" x="3004" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0068" x="20" y="2417" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0069" x="20" y="2417" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0070" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0071" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0072" x="20" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0073" x="20" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0074" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0075" x="766" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0076" x="1512" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0077" x="1512" y="20" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0078" x="2258" y="20" width="646" height="1099"/>
+	<SubTexture name="GOKU FINAL0079" x="2258" y="20" width="646" height="1099"/>
+	<SubTexture name="GOKU FINAL0080" x="3004" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0081" x="3004" y="20" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0082" x="20" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0083" x="20" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0084" x="766" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0085" x="766" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0086" x="1512" y="1219" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0087" x="1512" y="1219" width="646" height="1098" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0088" x="2258" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0089" x="2258" y="1219" width="646" height="1096" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+	<SubTexture name="GOKU FINAL0090" x="3004" y="1219" width="646" height="1095" frameX="0" frameY="0" frameWidth="646" frameHeight="1099"/>
+</TextureAtlas>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rola.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="buenarola0000" x="2" y="2" width="445" height="658" frameX="-10" frameY="-1" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0001" x="2" y="2" width="445" height="658" frameX="-10" frameY="-1" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0002" x="2" y="2" width="445" height="658" frameX="-10" frameY="-1" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0003" x="463" y="2" width="445" height="658" frameX="-10" frameY="-1" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0004" x="2" y="2" width="445" height="658" frameX="-10" frameY="-1" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0005" x="924" y="2" width="445" height="663" frameX="-10" frameY="-1" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0006" x="1385" y="2" width="445" height="659" frameX="-10" frameY="0" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0007" x="1385" y="2" width="445" height="659" frameX="-10" frameY="0" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0008" x="1846" y="2" width="445" height="656" frameX="-10" frameY="-4" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0009" x="2307" y="2" width="445" height="656" frameX="-10" frameY="-4" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0010" x="2768" y="2" width="458" height="647" frameX="-4" frameY="-13" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0011" x="3242" y="2" width="458" height="647" frameX="-4" frameY="-13" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0012" x="2" y="681" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0013" x="2" y="681" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0014" x="485" y="681" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0015" x="968" y="681" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0016" x="1451" y="681" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0017" x="1934" y="681" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0018" x="2417" y="681" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0019" x="2900" y="681" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0020" x="3383" y="681" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0021" x="2" y="1348" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0022" x="485" y="1348" width="467" height="655" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0023" x="968" y="1348" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0024" x="1451" y="1348" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0025" x="1934" y="1348" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0026" x="1934" y="1348" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0027" x="2417" y="1348" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0028" x="2900" y="1348" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0029" x="3383" y="1348" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0030" x="2" y="2019" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0031" x="485" y="2019" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0032" x="968" y="2019" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0033" x="1451" y="2019" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0034" x="1451" y="2019" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0035" x="1451" y="2019" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0036" x="1934" y="2019" width="467" height="655" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0037" x="485" y="2019" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+	<SubTexture name="buenarola0038" x="2417" y="2019" width="467" height="651" frameX="0" frameY="-9" frameWidth="467" frameHeight="664"/>
+</TextureAtlas>
